@@ -8,4 +8,3 @@ Start MySQL server
 
 Start PHP server
 `php artisan serve`
-
